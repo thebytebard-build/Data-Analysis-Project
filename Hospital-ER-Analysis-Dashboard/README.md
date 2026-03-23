@@ -1,5 +1,9 @@
 # 🏥 Hospital Emergency Room Analysis Dashboard
 
+## 📊 Dashboard Preview
+
+![Dashboard](dashboard.png)
+
 ## 📌 Project Overview
 
 This project focuses on analyzing hospital emergency room data to improve operational efficiency and patient experience.
