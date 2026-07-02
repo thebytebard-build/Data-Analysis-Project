@@ -18,19 +18,7 @@ The projects demonstrate my ability to clean, transform, analyze, and visualize 
 
 ---
 
-## 📁 Projects
 
-### 🔹 Hospital Emergency Room Dashboard
-
-* **Tools Used:** Excel, Power Query
-* **Description:**
-  Analyzed hospital emergency room data to monitor patient flow, waiting time, and satisfaction levels.
-* **Key Features:**
-
-  * Data cleaning and transformation using Power Query
-  * KPI tracking (patient count, average wait time, satisfaction score)
-  * Interactive dashboard with slicers and filters
-  * Pivot-based analysis for performance evaluation
 
 ---
 
